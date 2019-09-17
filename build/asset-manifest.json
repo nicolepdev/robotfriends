@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/robotfriends/static/css/main.5fdaffc2.chunk.css",
+    "main.js": "/robotfriends/static/js/main.25faef74.chunk.js",
+    "main.js.map": "/robotfriends/static/js/main.25faef74.chunk.js.map",
+    "runtime~main.js": "/robotfriends/static/js/runtime~main.faf9c61a.js",
+    "runtime~main.js.map": "/robotfriends/static/js/runtime~main.faf9c61a.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robotfriends/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.2aca6500.chunk.js": "/robotfriends/static/js/2.2aca6500.chunk.js",
+    "static/js/2.2aca6500.chunk.js.map": "/robotfriends/static/js/2.2aca6500.chunk.js.map",
+    "index.html": "/robotfriends/index.html",
+    "precache-manifest.7960820dd09bb97114e8f3a7d739cea3.js": "/robotfriends/precache-manifest.7960820dd09bb97114e8f3a7d739cea3.js",
+    "service-worker.js": "/robotfriends/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robotfriends/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.5fdaffc2.chunk.css.map": "/robotfriends/static/css/main.5fdaffc2.chunk.css.map"
+  }
+}
